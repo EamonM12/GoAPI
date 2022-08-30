@@ -1,0 +1,3 @@
+- create basic front end
+- connect to db with sql
+- use go and react
